@@ -1,2 +1,8 @@
 # Space-Invaders-Game-in-MIPS-Assembly
-space invaders, assembly language game, coded in MIPS
+### Execution
+In order to begin running the MARS IDE and emulator, run the following command
+from the directory containing the Mars.jar file.
+
+```
+java -jar Mars.jar
+```
