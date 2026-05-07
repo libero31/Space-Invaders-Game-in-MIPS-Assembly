@@ -6,3 +6,5 @@ from the directory containing the Mars.jar file.
 ```
 java -jar Mars.jar
 ```
+# ACKNOWLEDGEMENTS 
+This project is built using the MIPS bitmap display and helper framework originally created by Jarrett Billingsley.

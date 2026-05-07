@@ -1,10 +1,13 @@
-# This game includes the information about the play area
+# this file contains the play area constants 
 
+# 64*64 bit screen
 # Display stuff
 .eqv DISPLAY_W       64
 .eqv DISPLAY_H       64
 .eqv DISPLAY_W_SHIFT 6
 
+
+# color constants
 # LED Colors
 .eqv COLOR_BLACK   0
 .eqv COLOR_RED     1
@@ -16,6 +19,7 @@
 .eqv COLOR_WHITE   7
 .eqv COLOR_NONE    0xFF
 
+# key constants
 # Input key flags
 .eqv KEY_NONE	0x00
 .eqv KEY_UP	0x01
